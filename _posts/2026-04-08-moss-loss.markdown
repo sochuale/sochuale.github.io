@@ -8,7 +8,7 @@ categories: moss
 My second most favorite patch of moss has been lost to the spring city clean-up. It's alright. There is always more moss and this spot will soon welcome new mossy life as it's the perfect combination of asphalt, shade and rainwater trickling down from the bus stop roof.
 
 #### About the patch of moss
-It was a lovely little island of *Bryum argenteum* (prutník stříbřitý) floating in the vast sea of asphalt, its shores made of washed out soil from the adjacent grass patch.
+It was a lovely little island of *Bryum argenteum* (prutník stříbřitý) floating in the vast sea of asphalt, its shores made of washed-out soil from the adjacent grass patch.
 
 ![My second most favorite moss]({{ "/assets/img/PXL_20260116_104446760.jpg" | relative_url }})
 
