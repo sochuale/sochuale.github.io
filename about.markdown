@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-My interests are like a wheel of fortune and I ride the waves of hyperfocus.
+I'm learning by doing. This is where I document the projects I build for myself—home automation setups, data experiments, random technical and non-technical rabbit holes, and whatever else catches my interest. Sometimes these turn into tools or insights; mostly they're just things I needed to figure out.
 
-Expect microcontrollers, home automation and rambling about moss and stationery. I prefer to write about trivial and only mildly interesting things.
+If you like moss, I can promise there will be moss.
